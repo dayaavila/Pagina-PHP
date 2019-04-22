@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box; 
+}
+
+/* .box
+{
+    box-align: center;
+} */
+
+.foto
+{
+    margin-bottom: 25px; 
+    position: absolute;
+    top: 20%;
+    margin-left: 180px;
+}
+.tema
+{
+    font-weight: bold; 
+    margin-top: 25px;
+    font-size: 25px;
+    margin-right: 25px;
+}
+.text
+{
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    text-align: justify;
+    margin-left: 5%;
+}
